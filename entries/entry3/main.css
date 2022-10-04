@@ -1,42 +1,47 @@
 
 body {
   background-color: midnightblue;
-  font-family: <Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 
 h1 {
   font-size: 45px;
-  color: lightskyblue;
+  color: powderblue;
   text-align: left;
+  font-family: fantasy;
 }
 
 h2 {
   font-size: 45px;
   color: powderblue;
   text-align: center;
+  font-family: helvetica;
 }
 
 h3 {
   font-size: 45px;
   color: powderblue;
   text-align: right;
+  font-family: cursive;
 }
 
 h4 {
   font-size: 45px;
   color: powderblue;
   text-align: left;
+  font-family: fantasy;
 }
 
 h5 {
   font-size: 45px;
   color: powderblue;
   text-align: center;
+  font-family: helvetica;
 }
 
 h6 {
   font-size: 45px;
   color: powderblue;
   text-align: right;
+  font-family: cursive;
 }
 
