@@ -1,48 +1,44 @@
+
+
 body {
-  background-color: yellow;
-  font-family: <Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+  background-color: midnightblue;
+  font-family: 'Italiana', serif;
 }
 
+
 h1 {
-  font-size: 50px;
-  color: red;
-  text-align: center
+  font-size: 80px;
+  color: lightskyblue;
+  text-align: center;
+  letter-spacing: 0.2em;
 }
 
 h2 {
-  font-size: 80px;
-  color: red;
-  text-align: center
-  }
-h3 {
-  font-size: 40px;
-  color: red;
-  text-align: center
-  }
+  font-size: 30px;
+  color: powderblue;
+   text-align: justify;
+    letter-spacing: 0.05em;
+}
 
-h4 {
-  font-size: 20px;
-  color: red;
-  text-align: center
-  }
 
-  
 .container {
   display: flex;
   padding:10px;
   background-color: #042135;
-  min-height: 300px;
+
   font-family: 'times', monospace;
-  color:  #042135;
+  color:  powderblue;
   font-size:  36px;
   text-align:  center;
 }
 /*this tells the browser to account for any border and padding in the values you specify for an element's width and height.*/
 * {box-sizing:  border-box;}
 
+
 .item {
-  margin: 10px 10px;
+
   width: 300px;
+  margin: 10px 10px;
 }
 
 .item1 {
@@ -64,6 +60,3 @@ h4 {
 .item5 {
   background-color:  #fff93f;
 }
-
-.item6 {
-  background-color:  #ff4e00;

@@ -1,19 +1,24 @@
 
 body {
   background-color: midnightblue;
-  font-family: <Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-}
+font-family: 'Italiana', serif;
+
+  }
+
+
 
 h1 {
-  font-size: 40px;
+  font-size: 60px;
   color: lightskyblue;
-  text-align: center
+  text-align: center;
+  letter-spacing: 0.3em;
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 24px;
   color: powderblue;
-  text-align: center
+  text-align: justify; 
+letter-spacing: 0.05em;
 }
 
 
