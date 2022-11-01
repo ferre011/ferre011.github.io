@@ -1,0 +1,36 @@
+
+
+    body {
+      background-color: pink;
+      font-family: arial;
+      color: red;
+      font-size: 100px;
+    }
+    
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .item {
+      text-align: center;
+      animation:  spinType 2s;
+      animation-iteration-count: infinite; 
+    }
+
+
+@keyframes spinType {
+  0% {
+    transform: rotate(0);
+  }
+  50% {
+    color: yellow;
+  }
+  100% {
+    transform: rotate(1turn);
+    color: hotpink;
+  }
+}

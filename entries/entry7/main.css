@@ -1,0 +1,41 @@
+
+
+    body {
+      background-color: midnightblue;
+      color: powderblue;
+      font-size: 60px;
+      text-align: center;
+    }
+    
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .item {
+      text-align: center;
+      animation:  spinType 2s;
+      animation-iteration-count: infinite; 
+      
+  }
+    
+
+
+@keyframes spinType {
+  0% {
+    transform: rotate(0);
+  }
+  50% {
+    color: lightsteelblue;
+  }
+  100% {
+    transform: rotate(1turn);
+    color: powderblue;
+
+
+  }
+}
+
