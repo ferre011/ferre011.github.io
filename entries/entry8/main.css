@@ -1,0 +1,39 @@
+
+body {
+  background-color: midnightblue;
+  font-family: 'Italiana', serif;
+}
+
+
+</style>
+</head>
+<body>
+
+
+h1 {
+  font-size: 80px;
+  color: powderblue;
+  text-align: center;
+  letter-spacing: 0.2em;
+}
+
+h2 {
+  font-size: 80px;
+  color: powderblue;
+  text-align: center;
+  letter-spacing: 0.2em;
+}
+
+
+h3 {
+  font-size: 20px;
+  color: midnightblue;
+  text-align: justify;
+}
+
+h3:hover {
+  background-color:powderblue ;
+  font-size: 20px;
+  color: midnightblue;
+  text-align: center;
+}
