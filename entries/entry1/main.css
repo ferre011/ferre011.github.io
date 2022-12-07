@@ -5,8 +5,6 @@ font-family: 'Italiana', serif;
 
   }
 
-
-
 h1 {
   font-size: 60px;
   color: lightskyblue;
@@ -19,6 +17,12 @@ h2 {
   color: powderblue;
   text-align: justify; 
 letter-spacing: 0.05em;
+}
+
+div {
+  font-size: 12px;
+  color: powderblue;
+  text-align: center
 }
 
 
