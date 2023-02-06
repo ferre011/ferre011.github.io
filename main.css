@@ -1,3 +1,67 @@
-body {
- background-color: blue,
+html {
+  box-sizing: border-box;
+  font-size: 24px;
 }
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: 'Italiana', serif;
+  font-style: oblique;
+  font-weight: revert-layer;
+  color: hotpink;
+  line-height: 1.5;
+    background: rgb(0,258,2122);
+  background: linear-gradient(90deg, rgba(0,254,218,1) 0%, rgba(0,91,218,1) 46%, rgba(119,205,203,1) 100%);
+  
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+li {
+    color: yellow;
+    margin: 30;
+}
+
+.button {
+  background-color: yellow;
+  border: midnightblue ;
+  border-radius: 20px;
+  border-color: midnightblue;
+  border-width: 8px;
+  padding: 20px 40px;
+  color: hotpink;
+  font-size: 36px;
+}
+
+.button:hover {
+  opacity: .8;
+  cursor: pointer;
+  transition: 90ms ease;
+  color: midnightblue;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+
+.special {
+  font-family: arial;
+  font-size: 100px;
+  color: red;
+}
+
