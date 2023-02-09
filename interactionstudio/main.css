@@ -1,0 +1,33 @@
+body {
+  margin: 1rem;
+  font-family: 'Italiana', serif;
+  font-weight: revert-layer;
+  color: hotpink;
+  line-height: 1.5;
+  background: rgb(0,258,2122);
+  background: linear-gradient(90deg, rgba(0,254,218,1) 0%, rgba(0,91,218,1) 46%, rgba(119,205,203,1) 100%);
+  
+}
+
+h1 {
+    color: hotpink;
+    margin: 30;
+    text-align: right;
+    font-size:100px;
+}
+
+li {
+    color: hotpink;
+    margin: 30;
+    text-align: left;
+    font-size:50px;
+}
+
+}
+
+li:hover {
+  color: yellow;
+}
+
+
+

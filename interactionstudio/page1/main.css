@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+  font-family: 'Italiana', serif;
+}
+
+</style>
+</head>
+<body>
+
+
+h1 {
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.2em;
+}
+
+h2 {
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.2em;
+}
+
+
