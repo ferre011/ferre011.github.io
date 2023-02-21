@@ -1,0 +1,28 @@
+
+body {
+  background-color: white;
+  font-family: 'Italiana', serif;
+}
+
+
+a:link {
+  font-size: 80px;
+  color: black;
+  text-align: right;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  }
+
+a:hover {
+  color: black;
+    text-align: right;
+  text-decoration: underline;
+  }
+
+  a:visited {
+  text-decoration: none;
+  }
+
+  a:active {
+  text-decoration: none;
+  }

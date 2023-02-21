@@ -1,0 +1,74 @@
+body {
+  background-color: white;
+  font-family: 'Italiana', serif;
+}
+
+h1 {
+  font-size: 42px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.1em;
+  }
+
+  h2 {
+  font-size: 42px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.2em;
+  }
+
+p {
+  font-size: 26px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.1em;
+  }
+
+   h2 {
+  font-size: 42px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.2em;
+  }
+
+img {
+place-items: center;
+margin-left: 300px;
+}
+
+ h3 {
+  font-size: 42px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.2em;
+  }
+
+a:link {
+  font-size: 34px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  }
+
+a:hover {
+  color: black;
+    text-align: center;
+  text-decoration: underline;
+  }
+
+  a:visited {
+  text-decoration: none;
+  }
+
+  a:active {
+  text-decoration: none;
+  }
+
+
+
+
+
+
+
+
