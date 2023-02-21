@@ -1,7 +1,10 @@
+@media only screen and (max-width: 600px) {
 body {
+overflow: hidden;
   background-color: white;
   font-family: 'Italiana', serif;
 }
+
 
 h1 {
   font-size: 30px;
