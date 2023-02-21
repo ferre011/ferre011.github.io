@@ -1,21 +1,34 @@
-
 body {
   background-color: white;
   font-family: 'Italiana', serif;
 }
 
+h1 {
+  font-size: 400px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.1em;
+  }
+
+
+p {
+  font-size: 26px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.1em;
+  }
 
 a:link {
-  font-size: 80px;
+  font-size: 34px;
   color: black;
-  text-align: right;
+  text-align: center;
   letter-spacing: 0.1em;
   text-decoration: none;
   }
 
 a:hover {
   color: black;
-    text-align: right;
+    text-align: center;
   text-decoration: underline;
   }
 
@@ -26,3 +39,11 @@ a:hover {
   a:active {
   text-decoration: none;
   }
+
+
+
+
+
+
+
+

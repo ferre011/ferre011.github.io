@@ -7,16 +7,27 @@ body {
 </head>
 <body>
 
-
 h1 {
-  font-size: 80px;
+  font-size: 100px;
   color: black;
   text-align: center;
   letter-spacing: 0.2em;
 }
 
 h2 {
-  font-size: 80px;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+  letter-spacing: 0.2em;
+}
+
+img {
+place-items: center;
+margin-left: 350px;
+}
+
+h3 {
+  font-size: 40px;
   color: black;
   text-align: center;
   letter-spacing: 0.2em;
