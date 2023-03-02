@@ -1,6 +1,10 @@
 body {
   background-color: white;
   font-family: 'Italiana', serif;
+  display: block;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
 }
 
 
@@ -66,8 +70,7 @@ a:hover {
   }
 }
 
-
-
+@media only screen and (max-width:500px)
 
 
 
