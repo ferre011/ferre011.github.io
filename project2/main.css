@@ -1,0 +1,78 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: serif;
+  line-height: 1.5;
+  background:black;
+  color: blueviolet;
+  font-family: optima;
+}
+
+h1 {
+  margin: 1rem;
+  line-height: 1.5;
+  font-size: 100px;
+  text-align: center;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+} 
+
+
+
+.tattoosimg{
+  display:flex; 
+  flex-wrap: wrap;
+}
+
+#data-output > div{
+  width:48vw; 
+  
+}
+
+
+
+.tattoosimg{
+  width:400px;
+}
+
+.tattoosinfo {
+  margin-bottom:10vh; 
+}
+
+button {
+  background: black; 
+  color: blueviolet;
+  font-size: 42px;
+  font-family: optima;
+  text-align: center;
+
+}
+
+
+
+
+  #buttons-container{
+    margin-bottom: 5vh;
+    text-align: center;
+  } 
+
+#data-three{
+  display:none; 
+}

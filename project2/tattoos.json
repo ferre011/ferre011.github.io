@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Emma",
+        "age": "19",
+        "significance": "To bring to the heart, in Italian",
+        "position": "Arm, bicep area",
+        "city": "Paris",
+        "img": "emma2.jpg"
+    },
+    {
+        "name": "Roberta",
+        "age": "53",
+        "significance": "A mantra she lives for",
+        "position": "Forearm",
+        "city": "Milan",
+        "img": "robi3.jpg"
+    },
+    {
+        "name": "Cecilia",
+        "age": "20",
+        "significance": "Initial of many members in her family, the rose is symbolism for love",
+        "position": "Forearm",
+        "city": "Milan",
+        "img": "ceci4.jpg"
+    },
+    {
+        "name": "Estelle",
+        "age": "23",
+        "significance": "Thetime she was born",
+        "position": "Wrist",
+        "city": "Bergamo",
+        "img": "esti1.jpg"
+    },
+    {
+        "name": "Uma",
+        "age": "21",
+        "significance": "Someone she looks up to (language unknown)",
+        "position": "Wrist",
+        "city": "Brazil",
+        "img": "uma1.jpg"
+    },
+    {
+        "name": "Estelle",
+        "age": "23",
+        "significance": "3 is her perfect number",
+        "position": "Elbow",
+        "city": "Ibiza",
+        "img": "esti2.jpg"
+    },
+    {
+        "name": "Cecilia",
+        "age": "20",
+        "significance": "Om symbol",
+        "position": "Ankle",
+        "city": "India",
+        "img": "ceci1.jpg"
+    },
+    {
+        "name": "Roberta",
+        "age": "53",
+        "significance": "The number of people in her family",
+        "position": "Arm, bicep area",
+        "city": "Ibiza",
+        "img": "robi5.jpg"
+    },
+    {
+        "name": "Roberta",
+        "age": "53",
+        "significance": "A letter to self",
+        "position": "Arm, bicep area",
+        "city": "Naples",
+        "img": "robi6.jpg"
+    },
+    {
+        "name": "Cecilia",
+        "age": "20",
+        "significance": "The world, with 8 places for each of her family members",
+        "position": "Wrist",
+        "city": "Polynesia",
+        "img": "ceci2.jpg"
+    },
+    {
+        "name": "Roberta",
+        "age": "53",
+        "significance": "Becareful/watch your back, in Napolitan",
+        "position": "Forearm",
+        "city": "Naples",
+        "img": "robi1.jpg"
+    },
+    {
+        "name": "Andrea",
+        "age": "21",
+        "significance": "His love for the piano",
+        "position": "Forearm",
+        "city": "Milan",
+        "img": "drew4.jpg"
+    },
+    {
+        "name": "Andrea",
+        "age": "21",
+        "significance": "Matching tattoos with his siblings",
+        "position": "Wrist",
+        "city": "Milan",
+        "img": "drew4.jpg"
+    },
+    {
+        "name": "Olimpia",
+        "age": "19",
+        "significance": "The name of the color associated to eating disorders, in Italian. The parentheses close the chapter of eating disorders in her life",
+        "position": "Side of the bust",
+        "city": "Paris",
+        "img": "lilli1.jpg"
+    },
+    {
+        "name": "Roberta",
+        "age": "53",
+        "significance": "Initials of her children in a heart-shape",
+        "position": "Arm, bicep area",
+        "city": "Spain",
+        "img": "robi2.jpg"
+    },
+    {
+        "name": "Roberta",
+        "age": "53",
+        "significance": "She remains truthful to herself and others",
+        "position": "Forearm",
+        "city": "Milan",
+        "img": "robi4.jpg"
+    },
+    {
+        "name": "Cecilia",
+        "age": "20",
+        "significance": "The line is the course of our life, and the cloud signifies its obstacles. Once the obstacles are passed, life is infinite",
+        "position": "Arm, bicep area",
+        "city": "London",
+        "img": "ceci3.jpg"
+    },
+    {
+        "name": "Roberta",
+        "age": "53",
+        "significance": "The years her kids were born",
+        "position": "Forearm",
+        "city": "Naples",
+        "img": "robi7.jpg"
+    },
+    {
+        "name": "Andrea",
+        "age": "21",
+        "significance": "Vase that is important to him",
+        "position": "Forearm",
+        "city": "Milan",
+        "img": "drew2.jpg"
+    },
+    {
+        "name": "Cristina",
+        "age": "55",
+        "significance": "Heart meaning the love for her daughter, they both got it tattoed",
+        "position": "Behind the neck",
+        "city": "Paris",
+        "img": "cri1.jpg"
+    },
+    {
+        "name": "Gaia",
+        "age": "21",
+        "significance": "Stick drawings of her and her sister holding hands",
+        "position": "Forearm",
+        "city": "Madrid",
+        "img": "gaia1.jpg"
+    },
+    {
+        "name": "Emma",
+        "age": "19",
+        "significance": "It means autosufficiency in greek, I am enough for myself",
+        "position": "Side of the bust",
+        "city": "Paris",
+        "img": "emma1.jpg"
+    }
+]

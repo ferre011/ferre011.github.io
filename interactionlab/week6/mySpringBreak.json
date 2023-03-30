@@ -1,0 +1,41 @@
+{
+  "firstName": "Emma",
+  "lastName": "Ferruzzi",
+  "activities": [
+    {
+      "name": "Swimming",
+      "dateStart": "3/13/23",
+      "dateEnd": "3/17/23",
+      "description": "Swimming in the sea in Florida was very exciting, especially after such a long winter. However, it was difficult because of the high waves, and also a bit scary because of the fact that sharks are very common in beaches in Florida and I was frightened they would bite me. But luckily I didn't see any.",
+      "wouldRepeat": "true"
+    }
+    {
+      "name": "Walking in Wynwood",
+      "dateStart": "3/14/23",
+      "dateEnd": "3/14/23",
+      "description": "Walking around Wynwood was very fun because of the beautiful graffiti and art on all the walls in that neighbourhood. My friends and I enjoyed being in such a creative area of Miami.",
+      "wouldRepeat": "true"
+    }
+    {
+      "name": "Karaoke",
+      "dateStart": "3/15/23",
+      "dateEnd": "3/15/23",
+      "description": "Karaoke on Wednesday night was very entertaining, except for our out of tune voices! I feel sorry for those who heard our voices screaming songs such as Flowers by Miley Cyrus.",
+      "wouldRepeat": "true"
+    }
+    {
+      "name": "Shopping",
+      "dateStart": "3/16/23",
+      "dateEnd": "3/16/23",
+      "description": "On some of the 5 days of our stay, the weather was not as great as others. So one day we decided to go shopping - or rather window-shopping since all of she stores in the Design District were too expensive! ",
+      "wouldRepeat": "true"
+    }
+    {
+      "name": "Jet-Skiing",
+      "dateStart": "3/17/23",
+      "dateEnd": "3/17/23",
+      "description": "One day, we rented a jet-ski and went jet-skiing. We had a lot of fun! I also found it interesting that you don't need a license for them here in the US. I have a sailing license from Italy, and only with that I can go jet-skiing over there.",
+      "wouldRepeat": "true"
+    }
+  ]
+}
